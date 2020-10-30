@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-project2/tree/main/oslo-bysykkel/static/css/main.8518cfdf.chunk.css",
-    "main.js": "/my-project2/tree/main/oslo-bysykkel/static/js/main.ee05c82b.chunk.js",
-    "main.js.map": "/my-project2/tree/main/oslo-bysykkel/static/js/main.ee05c82b.chunk.js.map",
-    "runtime-main.js": "/my-project2/tree/main/oslo-bysykkel/static/js/runtime-main.dc3b94ae.js",
-    "runtime-main.js.map": "/my-project2/tree/main/oslo-bysykkel/static/js/runtime-main.dc3b94ae.js.map",
-    "static/js/2.e582e356.chunk.js": "/my-project2/tree/main/oslo-bysykkel/static/js/2.e582e356.chunk.js",
-    "static/js/2.e582e356.chunk.js.map": "/my-project2/tree/main/oslo-bysykkel/static/js/2.e582e356.chunk.js.map",
-    "static/js/3.16ef359a.chunk.js": "/my-project2/tree/main/oslo-bysykkel/static/js/3.16ef359a.chunk.js",
-    "static/js/3.16ef359a.chunk.js.map": "/my-project2/tree/main/oslo-bysykkel/static/js/3.16ef359a.chunk.js.map",
-    "index.html": "/my-project2/tree/main/oslo-bysykkel/index.html",
-    "static/css/main.8518cfdf.chunk.css.map": "/my-project2/tree/main/oslo-bysykkel/static/css/main.8518cfdf.chunk.css.map",
-    "static/js/2.e582e356.chunk.js.LICENSE.txt": "/my-project2/tree/main/oslo-bysykkel/static/js/2.e582e356.chunk.js.LICENSE.txt"
+    "main.css": "/my-project2/static/css/main.8518cfdf.chunk.css",
+    "main.js": "/my-project2/static/js/main.665d59a6.chunk.js",
+    "main.js.map": "/my-project2/static/js/main.665d59a6.chunk.js.map",
+    "runtime-main.js": "/my-project2/static/js/runtime-main.53330ac6.js",
+    "runtime-main.js.map": "/my-project2/static/js/runtime-main.53330ac6.js.map",
+    "static/js/2.e582e356.chunk.js": "/my-project2/static/js/2.e582e356.chunk.js",
+    "static/js/2.e582e356.chunk.js.map": "/my-project2/static/js/2.e582e356.chunk.js.map",
+    "static/js/3.16ef359a.chunk.js": "/my-project2/static/js/3.16ef359a.chunk.js",
+    "static/js/3.16ef359a.chunk.js.map": "/my-project2/static/js/3.16ef359a.chunk.js.map",
+    "index.html": "/my-project2/index.html",
+    "static/css/main.8518cfdf.chunk.css.map": "/my-project2/static/css/main.8518cfdf.chunk.css.map",
+    "static/js/2.e582e356.chunk.js.LICENSE.txt": "/my-project2/static/js/2.e582e356.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc3b94ae.js",
+    "static/js/runtime-main.53330ac6.js",
     "static/js/2.e582e356.chunk.js",
     "static/css/main.8518cfdf.chunk.css",
-    "static/js/main.ee05c82b.chunk.js"
+    "static/js/main.665d59a6.chunk.js"
   ]
 }
