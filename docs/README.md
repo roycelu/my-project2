@@ -1,3 +1,6 @@
+# React application
+Click [**here**](https://roycelu.github.io/my-project2/) to view the application. Deployed to GitHub Pages.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
